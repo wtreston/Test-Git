@@ -7,9 +7,13 @@ Software Design and Implementation
 ## Group
 
   William "Parkinson" Parkinson
+  
   William "Peters" Peters
+  
   William "Preston" Treston
+  
   Kalaan "Polanki" Solanki
+  
   
 ## Tutor
 
