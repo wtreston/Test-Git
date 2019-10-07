@@ -12,7 +12,7 @@ Software Design and Implementation
   
   William "Preston" Treston
   
-  Kalaan "Polanki" Solanki
+  Kalaan "Polanski" Solanki
   
   
 ## Tutor
